@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+*{
+    margin:0;
+    padding:0;
+    
+}
+body{
+    font-family: Roboto,  sans-serif;
+    background-color: rgb(243, 83, 24);
+    display: flexbox;
+}
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    z-index: 1;
+    background-color:#333;
+    position: sticky;
+    top: 0;
+    padding: 1rem;
+}
+.span_element{
+    color:orangered;
+   
+}
+#span_order{
+    color: antiquewhite;
+}
+.logo{
+    cursor: pointer;
+}
+#coro{
+
+    margin: 0px 290px ;
+    display: flex;
+    align-items:center;
+    text-align: center;
+    position: center;
+   
+    
+}
+img{
+    display: flex;
+    height: 440px;
+    width: 75%;
+}
+#bg_coro{
+    display: flex;
+    background-color:rgb(223, 63, 5);
+}
+.corolb{
+    color: rgb(255, 252, 250);
+    
+}
+#view_menu{
+    
+    width:100px;
+    height: 50px;
+    background-color: #333;
+    color: aliceblue;
+   float:center;
+   text-decoration: none;
+    font-size: large;
+    text-align: center;
+    align-items: center;
+    
+}
+#view_menu:hover{
+    background-color: orangered;
+    color:#333
+    border-radius: 20px;
+}
+#carouselExampleCaptions{
+    align-items:center ;
+    align-content: center;
+}
+
+#view_menubg{
+    align-items: center;
+    background-color: #333;
+    text-align: center;
+}
+.corolb{
+    color: #ff7720;
+}

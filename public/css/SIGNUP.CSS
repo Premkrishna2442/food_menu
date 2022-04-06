@@ -1,0 +1,40 @@
+body{
+    background-image: url(../img/signupbg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+H1{
+    font-family:Verdana;
+    text-align: center;
+    color: rgb(0, 0, 0);
+
+}
+.cont{
+    display: flexbox;
+    border: 0cm;
+    margin: 50PX 350PX 50PX 350PX;
+    padding: 50PX;
+    border-radius: 20PX;
+    background-color:rgb(255, 251, 251);
+    
+    border-color: rgb(2, 2, 2);
+    border-style: dashed;
+    box-shadow: 3px;
+    text-align: left;
+}
+input{
+    margin:10px;
+    border-radius: 10px;
+    width: 100%;
+}
+p{
+    color: red;
+}
+#button{
+    width:100%;
+    color: rgb(246, 248, 246);
+    background-color: green;
+    border-radius:10ps;
+}

@@ -1,0 +1,46 @@
+body{
+    background-image:url(../img/LOGINBG.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flexbox;
+}
+H1{
+     font-family:Verdana;
+     text-align: center;
+     color: rgb(32, 34, 34);
+
+}
+.logincont{
+    display: flexbox;
+    border: 0cm;
+    margin: 50PX 350PX 50PX 350PX;
+    padding: 50PX;
+    border-radius: 20PX;
+    background-color:beige;
+    
+    border-color: rgb(2, 2, 2);
+    border-style: dashed;
+    box-shadow: 3px;
+}
+.form{
+    padding:50px;
+    text-align: left;
+  
+    background-size: 150px;
+    background-position: 350px;
+    background-repeat: no-repeat;
+}
+.ah{
+    margin-top: 50px;
+    text-align: center;
+    display: flexbox;
+    
+}
+fieldset{
+    padding: 10px;
+    background-color: beige;
+   
+}
+h5{
+    font-family:'Gill Sans';
+}

@@ -1,0 +1,51 @@
+body{
+    background-image:url(../img/adminbg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+H1{
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+     text-align: center;
+     color: rgb(32, 34, 34);
+
+}
+.logincont{
+    
+    border: 0cm;
+    margin: 50PX 350PX 50PX 350PX;
+    padding: 50PX;
+    border-radius: 20PX;
+    background-color:beige;
+    
+    border-color: rgb(2, 2, 2);
+    border-style: dashed;
+    box-shadow: 3px;
+}
+.form{
+    padding:50px;
+    text-align: left;
+    
+    background-size: 150px;
+    background-position: 300px;
+    background-repeat: no-repeat;
+    
+}
+.ah{
+    margin-top: 50px;
+    text-align: center;
+    display: flex;
+    
+}
+fieldset{
+    padding: 10px;
+    background-color: beige;
+   display: flexbox;
+}
+h6{
+    font-family:'Gill Sans';
+}
+svg{
+    padding: 1px;
+    
+}
